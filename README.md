@@ -42,6 +42,8 @@ puts 'WADDAYA MEAN '+input.upcase.to_s+'!? YOU\'RE FIRED!!'
 password check
 
 password again
+
+last password attempt
 		puts array.sort.join(', ')
 end
 
