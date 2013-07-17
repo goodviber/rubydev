@@ -1,0 +1,18 @@
+bye=0
+while true
+  input=gets.chomp
+		if input=='BYE'
+			bye+=1
+				if bye==3
+				 break
+				end
+			else bye=0
+	cd	end
+		if input==input.upcase
+			puts'Not since '+(rand(75)+1900).to_s
+		else
+			puts'speak up'
+		end
+			
+end
+puts'BYE BYE'
