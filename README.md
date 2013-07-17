@@ -40,6 +40,8 @@ input=gets.chomp
 puts 'WADDAYA MEAN '+input.upcase.to_s+'!? YOU\'RE FIRED!!'
 
 password check
+
+password again
 		puts array.sort.join(', ')
 end
 
