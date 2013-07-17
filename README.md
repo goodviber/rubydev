@@ -24,4 +24,15 @@ while true
 end
 puts'BYE BYE'
 
+Arrays...
+
+array=[ ]
+x='beta'
+while x!=''
+	puts'type here...'
+		x=gets.chomp
+		array.push x.to_s
+		puts array.sort.join(', ')
+end
+
 
