@@ -38,6 +38,8 @@ ANGRY BOSS
 puts 'what do you want?'
 input=gets.chomp
 puts 'WADDAYA MEAN '+input.upcase.to_s+'!? YOU\'RE FIRED!!'
+
+password check
 		puts array.sort.join(', ')
 end
 
