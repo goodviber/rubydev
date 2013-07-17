@@ -32,6 +32,12 @@ while x!=''
 	puts'type here...'
 		x=gets.chomp
 		array.push x.to_s
+		
+ANGRY BOSS
+
+puts 'what do you want?'
+input=gets.chomp
+puts 'WADDAYA MEAN '+input.upcase.to_s+'!? YOU\'RE FIRED!!'
 		puts array.sort.join(', ')
 end
 
