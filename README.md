@@ -44,7 +44,5 @@ password check
 password again
 
 last password attempt
-		puts array.sort.join(', ')
-end
 
-
+why won't this work?
