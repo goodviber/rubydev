@@ -1,0 +1,6 @@
+array=[ ]
+x='beta'
+while x!=''
+  puts'type here...'
+		x=gets.chomp
+		array.push x.to_s

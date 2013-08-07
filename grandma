@@ -1,13 +1,6 @@
-rubydev
-=======
-
-tealeaf training programs
-
-GRANDMA
-
 bye=0
 while true
-	input=gets.chomp
+  input=gets.chomp
 		if input=='BYE'
 			bye+=1
 				if bye==3
@@ -23,6 +16,7 @@ while true
 			
 end
 puts'BYE BYE'
+<<<<<<< HEAD:README.md
 
 Arrays...
 
@@ -37,3 +31,5 @@ end
 
 password md
 
+=======
+>>>>>>> cd8e43223fedc4a8d214b00afbd254bcdace0859:grandma
