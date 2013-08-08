@@ -2,7 +2,7 @@
 
 another_game=1
 
-while another_game=1
+while another_game=true
 
 def calculate_total(cards) 
   # [['H', '3'], ['S', 'Q'], ... ]
@@ -96,6 +96,9 @@ end
   elsif dealertotal > mytotal
   puts "Dealer wins"
 
+  elsif mytotal==dealertotal
+  puts "Draw"
+   
   
   
   end
